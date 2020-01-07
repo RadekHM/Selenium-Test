@@ -1,0 +1,13 @@
+<link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" type="text/css" rel="stylesheet"/>
+ <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+ <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+
+id="example"
+
+<script type="text/javascript">
+    $(document).ready(function() {
+   $('#example').DataTable({
+      "pagingType":"full_numbers"
+  });
+});
+</script>

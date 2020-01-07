@@ -1,0 +1,6 @@
+ST (Successfull Test) file is for a successfull test where the image path matches the image in the driver
+UT (Incorrect Test) file is for when the file does not match the file type
+MT (Missing Test) file is for when the file does not exist
+
+ScreeShots folder is the folder with the screenshots taken after the test has been completed
+Files folder is the folder with files needed for the tests
